@@ -1,4 +1,4 @@
- const nilaiKeaktifanMida = 85;
+const nilaiKeaktifanMida = 85;
 const nilaiUjianMida = 90;
 const absensiMida = 95;
 
