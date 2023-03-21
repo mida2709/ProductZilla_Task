@@ -9,7 +9,7 @@ function findCountry(countryName) {
   return 'Tidak Ada';
 }
 
-console.log(findCountry('Indonesia')); // output: 'Ada'
-console.log(findCountry('ind')); // output: 'Ada'
-console.log(findCountry('Amerika')); // output: 'Ada'
-console.log(findCountry('Korea')); // output: 'Tidak Ada'
+console.log(findCountry('Indonesia')); // 'Ada'
+console.log(findCountry('ind')); // 'Ada'
+console.log(findCountry('Amerika')); //'Ada'
+console.log(findCountry('Korea')); // 'Tidak Ada'
