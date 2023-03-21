@@ -1,0 +1,74 @@
+body {
+  background: url('../img/background.jpg');
+}
+
+.showcase {
+  margin: auto;
+  text-decoration: none;
+  text-align: center;
+}
+
+.showcase-top {
+  display: inline;
+  margin-right: 25px;
+}
+
+.showcase-content {
+  text-align: center;
+  text-decoration: none;
+  color: white;
+  padding-top: 150px;
+}
+
+h1 {
+  font-size: 35pt;
+  font-weight: bolder;
+}
+
+p {
+  font-size: 19pt;
+  font-weight: lighter;
+  margin-bottom: 45px;
+}
+
+.btn {
+  color: white;
+  text-decoration: none;
+  background-color: red;
+  border-radius: 2px;
+}
+
+.btn-rounded {
+  float: right;
+  padding: 7px 20px;
+  margin-right: 10px;
+  width: 50px;
+  height: 20px;
+}
+
+.btn-xl {
+  width: 50px;
+  height: 50px;
+  padding: 20px;
+}
+
+.btn-rounded:hover {
+  cursor: pointer;
+  height: 20px;
+  width: 50px;
+  background-color: #75100c;
+}
+
+.btn-xl:hover {
+  cursor: pointer;
+  width: 50px;
+  height: 50px;
+  background-color: #75100c;
+ 
+}
+
+img {
+  position: fixed;
+  width: 120px;
+  height: 40px;
+}
