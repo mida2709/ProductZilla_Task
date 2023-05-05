@@ -16,3 +16,4 @@ async function getDataAsyncAwait() {
 getDataAsyncAwait().then(data => {
   console.log(data);
 });
+// "try catch"  untuk menangkap error yang terjadi saat melakukan request data dari API.
