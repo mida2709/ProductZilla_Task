@@ -1,6 +1,3 @@
-// import { images } from '../images';
-  
-
 export const mobil = [
     {
         id: 1,
